@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/fpoly/dao/FavoriteDao.java=UTF-8
+encoding//src/main/java/com/fpoly/entity/Report.java=UTF-8
+encoding//src/main/java/com/fpoly/servlet_ASM/UserServlet_ASM.java=UTF-8
+encoding//src/main/java/com/fpoly/servlet_ASM/editProfile.java=UTF-8
+encoding//src/main/java/com/fpoly/servlet_ASM/editUser.java=UTF-8
+encoding//src/main/java/com/fpoly/servlet_ASM/editVideo.java=UTF-8
+encoding//src/main/java/com/fpoly/servlet_ASM/likeShareServlet.java=UTF-8
+encoding//src/main/webapp/views/footer.jsp=UTF-8
+encoding//src/main/webapp/views/layout_user.jsp=UTF-8
+encoding//src/main/webapp/views/trangchu.jsp=UTF-8
